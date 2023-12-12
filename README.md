@@ -56,8 +56,8 @@ Explore the repositories to witness the intricate workings of Harmony Events. Wh
    - Navigate to the Admin Panel.
    - Log in using admin credentials.
 
-[![Screenshot-2023-11-30-at-10-28-20-PM.png](https://i.postimg.cc/pXsRBgQ7/Screenshot-2023-11-30-at-10-28-20-PM.png)](https://postimg.cc/JGHfrY2c)
-[![Screenshot-2023-11-30-at-10-28-34-PM.png](https://i.postimg.cc/Gm9rgqqp/Screenshot-2023-11-30-at-10-28-34-PM.png)](https://postimg.cc/xXrWcyrr)
+![ admin signup](https://github.com/Pulkit1822/Harmony-Events/blob/main/Worflow%20Screenshots/adminSignup.png?raw=true)
+![admin login](https://github.com/Pulkit1822/Harmony-Events/blob/main/Worflow%20Screenshots/adminLogin.png?raw=true)
 
 2. **Access Concert Creation:**
    - Click "Create Concert" or go to the "Concerts" section.
@@ -65,12 +65,12 @@ Explore the repositories to witness the intricate workings of Harmony Events. Wh
 3. **Enter Concert Details:**
    - **Name, Type, Media:** Set concert name, type, and upload media.
 
-[![Screenshot-2023-11-30-at-10-30-06-PM.png](https://i.postimg.cc/RF1zJ8Vg/Screenshot-2023-11-30-at-10-30-06-PM.png)](https://postimg.cc/xJdZW6mm)
+![Concert creation](https://github.com/Pulkit1822/Harmony-Events/blob/main/Worflow%20Screenshots/adminConcertCreation.png?raw=true)
 
 4. **Add Location:**
    - **Venue, Address:** Choose or add a venue and provide its address.
 
-[![Screenshot-2023-11-30-at-10-31-32-PM.png](https://i.postimg.cc/kgZC0Kpv/Screenshot-2023-11-30-at-10-31-32-PM.png)](https://postimg.cc/FYjwcdmY)
+![venue selection](https://github.com/Pulkit1822/Harmony-Events/blob/main/Worflow%20Screenshots/adminScreenCreation.png?raw=true)
 
 5. **Set Date and Time:**
    - **Date, Time:** Specify the event date and start time.
@@ -86,7 +86,7 @@ Explore the repositories to witness the intricate workings of Harmony Events. Wh
 8. **Confirmation:**
    - Receive confirmation of successful concert creation.
    - Optionally view or edit concert details.
-[![Screenshot-2023-11-30-at-10-34-45-PM.png](https://i.postimg.cc/SsbhsqqX/Screenshot-2023-11-30-at-10-34-45-PM.png)](https://postimg.cc/bGgMC7Z8)
+![ database updated](https://github.com/Pulkit1822/Harmony-Events/blob/main/Worflow%20Screenshots/adminConcertScheduler.png?raw=true)
 
 ----------------------------------
 
@@ -99,15 +99,15 @@ Explore the repositories to witness the intricate workings of Harmony Events. Wh
    - Register for an account on the Harmony Events Client Panel.
    - Log in using your credentials.
 
-[![Screenshot-2023-11-30-at-10-37-05-PM.png](https://i.postimg.cc/Y0pB63vM/Screenshot-2023-11-30-at-10-37-05-PM.png)](https://postimg.cc/0MH4x7GB)
-[![Screenshot-2023-11-30-at-10-37-16-PM.png](https://i.postimg.cc/0NwvPrgR/Screenshot-2023-11-30-at-10-37-16-PM.png)](https://postimg.cc/bGpWRyN3)
+![Client signup](https://github.com/Pulkit1822/Harmony-Events/blob/main/Worflow%20Screenshots/clientSignup.png?raw=true)
+![client login](https://github.com/Pulkit1822/Harmony-Events/blob/main/Worflow%20Screenshots/clientLogin.png?raw=true)
 
 2. **Homepage/Dashboard:**
    - Upon login, be redirected to the homepage or dashboard.
    - View a list of all events published by the admin.
 
-[![Screenshot-2023-11-30-at-10-38-06-PM.png](https://i.postimg.cc/ncSfmqpf/Screenshot-2023-11-30-at-10-38-06-PM.png)](https://postimg.cc/hfmYWzX2)
-[![Screenshot-2023-11-30-at-10-38-14-PM.png](https://i.postimg.cc/Wpnv2Qy3/Screenshot-2023-11-30-at-10-38-14-PM.png)](https://postimg.cc/fkJFCgDn)
+![Home Page 1](https://github.com/Pulkit1822/Harmony-Events/blob/main/Worflow%20Screenshots/HomePage.png?raw=true)
+![Home Page 2](https://github.com/Pulkit1822/Harmony-Events/blob/main/Worflow%20Screenshots/HomePageFooter.png?raw=true)
 
 3. **Select Event:**
    - Click on the desired event to view details.
@@ -115,20 +115,20 @@ Explore the repositories to witness the intricate workings of Harmony Events. Wh
 4. **Concert Page:**
    - Be redirected to the concert page for the selected event.
 
-[![Screenshot-2023-11-30-at-10-38-25-PM.png](https://i.postimg.cc/0y6R0ryM/Screenshot-2023-11-30-at-10-38-25-PM.png)](https://postimg.cc/rDLP8VWM)
+![Concert Page](https://github.com/Pulkit1822/Harmony-Events/blob/main/Worflow%20Screenshots/Concert.png?raw=true)
 
 
 5. **Select Date, Time, and Venue:**
    - Choose the date and time for the event.
    - Select the venue for the concert.
   
-[![Screenshot-2023-11-30-at-10-38-37-PM.png](https://i.postimg.cc/MKp8X9kY/Screenshot-2023-11-30-at-10-38-37-PM.png)](https://postimg.cc/6TgPmLp7)
+![Select Date, Time, and Venue](https://github.com/Pulkit1822/Harmony-Events/blob/main/Worflow%20Screenshots/venueSelection.png?raw=true)
   
 6. **Book Tickets:**
    - Initiate the booking process.
    - Select the option to book tickets.
 
-[![Screenshot-2023-11-30-at-10-38-50-PM.png](https://i.postimg.cc/85S2GHBM/Screenshot-2023-11-30-at-10-38-50-PM.png)](https://postimg.cc/B8mYc2zn)
+![Book Tickets](https://github.com/Pulkit1822/Harmony-Events/blob/main/Worflow%20Screenshots/seatSelection.png?raw=true)
 
 7. **Select Number of Seats:**
    - Choose the number of seats for the booking.
@@ -138,16 +138,16 @@ Explore the repositories to witness the intricate workings of Harmony Events. Wh
    - Confirm that the selected seats are available.
    - Unavailable seats will be visually indicated.
 
-[![Screenshot-2023-11-30-at-10-38-59-PM.png](https://i.postimg.cc/T3Z87GKk/Screenshot-2023-11-30-at-10-38-59-PM.png)](https://postimg.cc/w1cbMCcJ)
+![Check Seat Availability](https://github.com/Pulkit1822/Harmony-Events/blob/main/Worflow%20Screenshots/seatSelected.png?raw=true)
 
 9. **Calculate Amount and Confirm Booking:**
    - View the calculated amount for the selected seats.
    - Confirm the booking.
 
-[![Screenshot-2023-11-30-at-10-39-08-PM.png](https://i.postimg.cc/xC3W1zt7/Screenshot-2023-11-30-at-10-39-08-PM.png)](https://postimg.cc/njMddC8Y)
+![booking success message](https://github.com/Pulkit1822/Harmony-Events/blob/main/Worflow%20Screenshots/successMessage.png?raw=true)
 
 10. **View Booking Details:**
     - The booking will be displayed in your profile.
     - Access "My Bookings" to view your confirmed bookings.
 
-[![Screenshot-2023-11-30-at-10-39-29-PM.png](https://i.postimg.cc/PqZg0cZd/Screenshot-2023-11-30-at-10-39-29-PM.png)](https://postimg.cc/qtJD31jF)
+![profile](https://github.com/Pulkit1822/Harmony-Events/blob/main/Worflow%20Screenshots/clientProfile.png?raw=true)
