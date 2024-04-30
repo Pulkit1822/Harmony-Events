@@ -1,5 +1,18 @@
 ![certificate of internship completion](https://github.com/Pulkit1822/Harmony-Events/blob/main/Certificate%20of%20Internship%20Completion.jpg?raw=true)
 
+<div align="center">
+  <h1>🚀 Sponsor for Full Access 🚀</h1>
+  <p>To unlock all features and capabilities of this project, sponsorship is required.</p>
+</div>
+
+---
+
+### 💡 Explore Sponsorship Options
+
+Discover how you can support this project and gain access to exclusive benefits by exploring the sponsorship options available for this repository.
+
+
+---
 
 # Harmony Events: A Symphony of Concert Booking Excellence
 
