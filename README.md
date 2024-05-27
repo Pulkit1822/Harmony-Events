@@ -13,7 +13,7 @@ To support this project, explore sponsorship options available for this reposito
 
 ---
 
-# Harmony Events: A Symphony of Concert Booking Excellence
+# [Harmony Events: A Symphony of Concert Booking Excellence](https://github.com/Pulkit1822/Harmony-Events)
 
 🚀 Welcome to Harmony Events, where concert booking transcends the ordinary! This project harmonizes a dynamic Backend, an engaging Client Panel, and a powerful Admin Panel to orchestrate an unforgettable experience for music enthusiasts and event organizers alike.
 
@@ -163,3 +163,24 @@ Explore the repositories to witness the intricate workings of Harmony Events. Wh
     - Access "My Bookings" to view your confirmed bookings.
 
 ![profile](https://github.com/Pulkit1822/Harmony-Events/blob/main/Worflow%20Screenshots/clientProfile.png?raw=true)
+## Feedback
+
+If you have any feedback, suggestions, or questions regarding this repository, please feel free to open an issue or contact me below on any of the platforms you prefer 😊
+<br/>
+<p align="center">
+  <a href="https://pulkitmathur.me/"><img src="https://github.com/Pulkit1822/Pulkit1822/blob/main/animated-icons/pic.jpeg" alt="portfolio" width="32"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/pulkitkmathur/"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32"></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:pulkitmathur.me@gmail.com"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/pulkitkumarmathur/"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="Instagram Logo" width="32"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://in.pinterest.com/pulkitkumarmathur/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png?20160129083321" alt="Pinterest Logo" width="32"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/pulkitkmathur"><img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="Twitter Logo" width="32"></a>&nbsp;&nbsp;&nbsp;
+</p>
+
+
+Happy learning and coding!
+
+---
+
+If you find this repository useful, don't forget to star it! ⭐️
+
+### Written by [Pulkit](https://github.com/Pulkit1822)
