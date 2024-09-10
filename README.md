@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="https://github.com/Pulkit1822/Harmony-Events">
+    <img src="https://github.com/Pulkit1822/Personal-Portfolio/blob/main/dist/projects/HE.png" height="128">
+  </a>
+  <h1 align="center">Harmony Events</h1>
+</p>
+
+
+### 🔖 Certificate of internship completion
 ![certificate of internship completion](https://github.com/Pulkit1822/Harmony-Events/blob/main/Certificate%20of%20Internship%20Completion.jpg?raw=true)
 
 <div align="center">
